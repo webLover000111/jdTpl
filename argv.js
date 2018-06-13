@@ -1,0 +1,1 @@
+[{mapId: '1',areaNum: 1,areaItems: { alt: '11', title: '2222', url: '1231', coords: '231 23 21 321', newTab: false},priceNum: 1,priceItem: {skuId: 123, fontSize:1323, color:'#qweqw', top: 123, left:123},}]
